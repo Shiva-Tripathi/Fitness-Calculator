@@ -7,7 +7,7 @@ This software can calculate the BMI and Fat % with ease.
 4. Aditya Binukumar (persivefire@gmail.com)
 ## **INSTRUCTIONS FOR USE**
 1. Extract and Run code.
-2. Select the mode: `BMI` or `Fat %`
+2. Select the mode: `BMI` or `Fat Percentage`
 3. Input the relevent details.
 4. The final calculation will be in the output.
 5. Select `Exit` to Exit the program.
